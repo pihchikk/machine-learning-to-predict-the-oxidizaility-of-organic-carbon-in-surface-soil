@@ -6,14 +6,6 @@ Soil carbon storage plays a critical role in maintaining soil health and stabili
 
 ### Features
 
-## Introduction
-
-Soil carbon storage plays a critical role in maintaining soil health and stability, particularly in Eurasian forest-steppe ecosystems with significant carbon sequestration potential. Traditional methods for modeling soil organic matter variability are often complex, time-consuming, and limited in scope. This repository presents an innovative approach leveraging machine learning to enhance predictions of soil organic matter distribution. By integrating ground sampling data and time series analysis of spectral indices with high-resolution remote-sensing data, our approach aims to significantly improve the accuracy and efficiency of soil carbon modeling compared to existing methods.
-
----
-
-### Features
-
 #### Data Pre-processing
 1. **Retrieving Fraction of Days Covered with Snow Raster for Each Year**:
     - **Description**: Automated process to retrieve and compute the fraction of days covered with snow for each year using Sentinel-2 surface reflectance imagery.
