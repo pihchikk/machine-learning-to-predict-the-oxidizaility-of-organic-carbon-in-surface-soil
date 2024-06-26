@@ -8,7 +8,7 @@ Soil carbon storage plays a critical role in maintaining soil health and stabili
 
 Sample dataset presented in [data](./data) folder comprises organic carbon content data from 426 points collected in the forest-steppe in Tambov region, Russia. The data are represented as a table. The table includes both **targets** (organic carbon content, oxidizability fractions content) and **features** comprised of both remote-sensing and field sampling data.
 
-### Parts
+### Content
 
 #### Data Pre-processing
 1. **Retrieving Fraction of Days Covered with Snow Raster for Each Year**:
