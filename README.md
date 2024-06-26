@@ -50,7 +50,7 @@ Soil carbon storage plays a critical role in maintaining soil health and stabili
 
 ### Usage
 
-- **Python Notebooks**: Jupyter notebooks for each stage of the data pre-processing and of the modeling process. Check the [notebooks](./notebooks) folder.
+- **Notebooks**: Jupyter notebooks for each stage of the data pre-processing and of the modeling process including uncertainty estimation. Check the [notebooks](./notebooks) folder.
 - **Data**: Example of a dataset used to train the model. Check the [data](./data) folder.
 - **Pre-trained Models**: Pre-trained models available for immediate use or further customization. Check the [models](./models) folder. (empty for now) 
 ---
