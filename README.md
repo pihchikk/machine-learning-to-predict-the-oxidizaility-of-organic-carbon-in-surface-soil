@@ -1,4 +1,4 @@
-![tokdecmap3](https://github.com/pihchikk/machine-learning-to-predict-the-oxidizaility-of-organic-carbon-in-surface-soil/assets/78477973/bbb44654-3f8c-46fd-a3ca-3529ebddc940)## Introduction
+## Introduction
 
 Soil carbon storage plays a critical role in maintaining soil health and stability, particularly in forest-steppe ecosystems with significant carbon sequestration potential. Traditional methods for modeling soil organic matter variability are often complex, time-consuming, and limited in scope. This repository presents an innovative approach leveraging machine learning to enhance predictions of soil organic matter distribution. By integrating ground sampling data and time series analysis of spectral indices with high-resolution remote-sensing data, our approach aims to improve the accuracy and efficiency of soil carbon modeling compared to existing methods.
 
@@ -9,8 +9,8 @@ Soil carbon storage plays a critical role in maintaining soil health and stabili
 
 
 Sample dataset presented in [data](./data) folder comprises organic carbon content data from 426 points collected in the forest-steppe in Tambov region, Russia. The data are represented as a table. The table includes both **targets** (organic carbon content, oxidizability fractions content) and **features** comprised of both remote-sensing and field sampling data.
-![tokdecmap3](https://github.com/pihchikk/machine-learning-to-predict-the-oxidizaility-of-organic-carbon-in-surface-soil/assets/78477973/4c3b46cf-099f-4396-881b-0efa505f7e48)
 
+![tokdecmap3](https://github.com/pihchikk/machine-learning-to-predict-the-oxidizaility-of-organic-carbon-in-surface-soil/assets/78477973/bbb44654-3f8c-46fd-a3ca-3529ebddc940)
 
 ## Content
 
