@@ -36,6 +36,8 @@ Soil carbon storage plays a critical role in maintaining soil health and stabili
 - **QGIS Scripts for Uncertainty Prediction**: Tools to assess and visualize the uncertainty in soil organic matter predictions.
 - **Monte Carlo Simulations**: Scripts to perform Monte Carlo simulations for robust uncertainty analysis. (empty for now)
 
+#### Uncertainty Analysis
+
 
 ### Objectives
 - Show how the ecotone effect (the edge effect) increases uncertainty in spatial prediction of crucial ecological parameters
@@ -47,10 +49,11 @@ Soil carbon storage plays a critical role in maintaining soil health and stabili
 
 ### Usage
 
-- **Python Notebooks**: Step-by-step guides in Jupyter notebooks for each stage of the modeling process. Check the [notebooks](./notebooks) folder.
-- **Pre-trained Models**: Pre-trained models available for immediate use or further customization. Check the [models](./models) folder.
-- **QGIS Scripts**: Tools for spatial analysis and visualization of soil data and prediction uncertainties. Check the [qgis_scripts](./qgis_scripts) folder.
-
+- **Python Notebooks**: Jupyter notebooks for each stage of the data pre-processing and of the modeling process. Check the [notebooks](./notebooks) folder.
+- **Pre-trained Models**: Pre-trained models available for immediate use or further customization. Check the [models](./models) folder. (empty for now) 
+- **
 ---
 
-This repository is designed to support researchers and practitioners interested in advancing soil carbon studies using cutting-edge machine learning techniques. By combining remote sensing and ground sampling data, our approach offers a robust and efficient solution for modeling soil organic carbon variability in diverse environmental settings.
+### Acknowledgements
+
+Work is greatly supported by Non-commercial Foundation for the Advancement of Science and Education INTELLECT
