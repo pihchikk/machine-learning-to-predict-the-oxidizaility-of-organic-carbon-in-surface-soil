@@ -32,9 +32,9 @@ Soil carbon storage plays a critical role in maintaining soil health and stabili
 #### Model Training
 - **Machine Learning Models**: Python scripts for training models (LR, RF, PLSR Catboost) to predict soil organic matter variability.
 
-#### Uncertainty Analysis
-- **QGIS Scripts for Uncertainty Prediction**: Tools to assess and visualize the uncertainty in soil organic matter predictions.
-- **Monte Carlo Simulations**: Scripts to perform Monte Carlo simulations for robust uncertainty analysis. (empty for now)
+#### TODO: Uncertainty Analysis
+- **QGIS Scripts for uncertainty estimation**: Tools to assess and visualize the uncertainty in soil organic matter predictions (empty for now)
+- **Monte Carlo simulations**: Scripts to perform Monte Carlo simulations for robust uncertainty analysis. (empty for now)
 
 
 ### Objectives
@@ -48,6 +48,7 @@ Soil carbon storage plays a critical role in maintaining soil health and stabili
 ### Usage
 
 - **Python Notebooks**: Jupyter notebooks for each stage of the data pre-processing and of the modeling process. Check the [notebooks](./notebooks) folder.
+- **Data**: Example of a dataset used to train the model. Check the [data](./data) folder.
 - **Pre-trained Models**: Pre-trained models available for immediate use or further customization. Check the [models](./models) folder. (empty for now) 
 - **
 ---
