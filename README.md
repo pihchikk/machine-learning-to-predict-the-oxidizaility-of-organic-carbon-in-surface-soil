@@ -36,8 +36,6 @@ Soil carbon storage plays a critical role in maintaining soil health and stabili
 - **QGIS Scripts for Uncertainty Prediction**: Tools to assess and visualize the uncertainty in soil organic matter predictions.
 - **Monte Carlo Simulations**: Scripts to perform Monte Carlo simulations for robust uncertainty analysis. (empty for now)
 
-#### Uncertainty Analysis
-
 
 ### Objectives
 - Show how the ecotone effect (the edge effect) increases uncertainty in spatial prediction of crucial ecological parameters
