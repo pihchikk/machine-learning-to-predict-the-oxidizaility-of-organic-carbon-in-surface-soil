@@ -33,7 +33,7 @@ Soil carbon storage plays a critical role in maintaining soil health and stabili
 - **Machine Learning Models**: Python scripts for training models (LR, RF, PLSR Catboost) to predict soil organic matter variability.
 
 #### Uncertainty Analysis
-- **Bootstrap estimation of uncertainty**: A robust method involving resampling the dataset with replacement to create multiple simulated samples. The variability in the statistic of interest across these samples provides an estimate of its uncertainty, often represented by confidence intervals. This technique is particularly useful when the theoretical distribution of the estimator is unknown.
+- **Bootstrap estimation of uncertainty**: Python scripts to estimate the uncertainty in soil organic matter predictions using bootstrap resampling techniques.
 
 **TODO**:
 - **QGIS Scripts for uncertainty estimation**: Tools to assess and visualize the uncertainty in soil organic matter predictions (empty for now)
